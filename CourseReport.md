@@ -13,7 +13,7 @@
 
 ## Name: VIGNESH SIVARAM A G
 
-## Qualifications: 3rd year, B. Tech IT
+## Qualifications: B. Tech IT 3rd Year
 
 Welcome to the course report for the G16 SQL and Power BI course! This README document provides an overview of the course, its mini projects and final project.
 
